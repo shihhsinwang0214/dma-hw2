@@ -4,7 +4,7 @@
 
 這次的作業是 Test-time Steering Lab 的延伸，繳交期限是兩週（以 NTU COOL 公告為準）。
 
-程式的部分，只需要把你在 lab 寫的方法貼進 [`hw2_steering.ipynb`](hw2_steering.ipynb) 的 `my_method`，再從頭跑到尾（[在 Colab 開啟](https://colab.research.google.com/github/shihhsinwang0214/test-time-steering-hw2/blob/main/hw2_steering.ipynb)，CPU 大約幾分鐘就跑完）。大部分的時間會花在報告上，整份作業預計 1–3 小時可以完成。
+程式的部分，只需要把你在 lab 寫的方法貼進 [`hw2_steering.ipynb`](hw2_steering.ipynb) 的 `my_method`，再從頭跑到尾（[在 Colab 開啟](https://colab.research.google.com/github/shihhsinwang0214/dma-hw2/blob/main/hw2_steering.ipynb)，CPU 大約幾分鐘就跑完）。大部分的時間會花在報告上，整份作業預計 1–3 小時可以完成。
 
 在自己的電腦跑也可以（需要 `torch numpy pandas matplotlib`），notebook 第一格會自動從這個 repo 下載需要的模型和資料。
 
